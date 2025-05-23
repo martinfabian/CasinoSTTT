@@ -41,6 +41,9 @@
 </LabelGeometry>
 </SimpleNode>
 <SimpleNode Name="GA">
+<EventList>
+<SimpleIdentifier Name=":accepting"/>
+</EventList>
 <PointGeometry>
 <Point X="400" Y="368"/>
 </PointGeometry>
